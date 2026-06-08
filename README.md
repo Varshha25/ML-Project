@@ -10,4 +10,4 @@ This project performs comprehensive data analysis on a sales dataset to uncover 
 - **Unsupervised Learning**: Applied K-Means clustering to identify customer/product segments using the Elbow Method
 - **Model Evaluation**: Compared models using R² score, RMSE, and cross-validation
 
-## Project Structure
+
